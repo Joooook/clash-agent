@@ -1,5 +1,5 @@
 # clash-agent
-A Bash script provides simple control functions for Clash.
+A Bash script provides simple cli control functions for Clash.
 
 简易clash控制脚本
 
