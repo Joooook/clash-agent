@@ -8,6 +8,7 @@ A Bash script provides simple cli control functions for Clash.
 git clone https://github.com/Joooook/clash-agent.git
 cd clash-agent
 wget https://github.com/zhongfly/Clash-premium-backup/releases/download/2023-09-05-gdcc8d87/clash-linux-amd64-n2023-09-05-gdcc8d87.gz
+gzip -d clash-linux-amd64-n2023-09-05-gdcc8d87.gz
 ```
 
 ## Usage
